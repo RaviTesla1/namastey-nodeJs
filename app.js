@@ -1,5 +1,5 @@
-require('./xyz.js')
-const {calculateSum,x} = require('./sum.js')
+// require('./xyz.js')
+import {calculateSum, x} from './sum.js'
 var name = "Namastey NodeJs"
 
 var a = 10;
